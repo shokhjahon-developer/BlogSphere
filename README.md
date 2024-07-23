@@ -40,4 +40,4 @@ Welcome to the Blog Website! This platform allows users to view and interact wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blog-website.git
+   [git clone https://github.com/yourusername/blog-website.git](https://github.com/shokhjahon-developer/BlogSphere.git)
